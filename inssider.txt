@@ -1,0 +1,17 @@
+What we need to know
+12. Click on the particular SSID as shown in figure 12, in this lab we have selected 
+WSTREAM AP0 SSID
+Now you have to select another SSID for comparison
+13. Scroll down the SSID and select WStream AP -1
+14. Click on the 2.4 GHz channels tab
+16. it will show 2.4Ghz channels for two SSID, WStreamAP1 and WStreamAP0 
+17. Click on 5Ghz channel
+Thus, you can see the signal strength for both the SSIDs
+
+In this way, we can analyse wireless network strength with the help of SSIDer tool
+
+
+What is inSSIDer?
+inSSIDer is a diagnostic tool for Wi-Fi networks that's geared toward SMEs, IT admins, and techie internet users. It displays Wi-Fi access point information, such as channel type and width, signal strength, maximum data rate, and security, with graphs and bar charts. The tool shows neighboring Wi-Fi networks' impact, hidden networks, and how busy other channels are. It makes recommendations for quieter channels to boost Wi-Fi speed. It scans the LAN for devices and their usage, and it identifies devices that may pose a security risk.
+Best For
+inSSIDer is a diagnostic tool for SMEs, IT professionals, and private individuals who want to monitor Wi-Fi usage and security.
